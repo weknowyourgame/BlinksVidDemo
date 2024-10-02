@@ -4,7 +4,7 @@ import { ActionGetResponse, ACTIONS_CORS_HEADERS } from "@solana/actions";
 export async function GET(req: NextRequest) {
   let response = {
     type: "action",
-    // icon: `https://pbs.twimg.com/media/GVtOC-KXQAA1aN7?format=jpg&name=large`,
+    icon: `https://pbs.twimg.com/media/GVtOC-KXQAA1aN7?format=jpg&name=large`,
     media: `https://video.twimg.com/amplify_video/1815225283353673728/vid/avc1/1280x720/33jn7JEVyOGfRh21.mp4`,
     mediaType: "video",
     title: "Action A",

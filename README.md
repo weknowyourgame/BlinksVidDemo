@@ -1,9 +1,5 @@
-## Getting Started
+![Screenshot 2025-02-24 at 3 12 33 AM](https://github.com/user-attachments/assets/a9f3a72b-f308-4afe-8095-c3912aa6beb5)
 
-1. clone the blinks sdk from https://github.com/thearyanag/blinks/tree/feat/media_types
-2. open the repo, install dependencies, `bun run build` and run `bun link` 
-3. clone the chrome ext from https://github.com/dialectlabs/blinks-chrome-extension
-4. open the repo, remove `@dialectlabs/blinks` from package.json, install dependencies 
-5. run `bun link @dialectlabs/blinks` to link the above repo, and run `bun run build`
-6. go to `chrome://extensions/` and enable developer mode
-7. click load unpacked and select the `blinks-chrome-extension/build` folder
+![Uploading Screenshot 2025-02-24 at 3.14.15 AM.png…]()
+
+visit:: https://blinks-video-demo-5qvf.vercel.app/api/action
